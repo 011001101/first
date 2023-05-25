@@ -1,0 +1,5 @@
+/bin/
+
+#무시할 파일 이름
+.classpath
+.project
